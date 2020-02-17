@@ -30,7 +30,7 @@ body {
   padding-right: 50px;
 }
 
-#header-nav li {
+#header-nav li, #projects-links li {
   display: inline;
   padding-left: 20px;
 }
