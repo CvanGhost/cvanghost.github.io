@@ -151,3 +151,39 @@ a:hover {
 #footer > div {
   padding-left: 50px;
 }
+
+.login_buttons  {
+  display: inline-block;
+  width: 250px;
+  height: 30px;
+}
+
+.login_action {
+  display: block;
+  width: 250px;
+  height: 250px;
+  margin: 0 32%;
+
+}
+
+.login_buttons a {
+  width: 125px;
+  height: 30px;
+  display: block;
+  float: right;
+  color: black;
+
+}
+
+.login_buttons a:hover {
+  color: #1abc9c;
+  border-bottom: 1px solid black;
+}
+
+#button_active {
+  border-bottom: 1px solid black;
+}
+
+#input {
+
+}
